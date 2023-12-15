@@ -1,0 +1,2 @@
+# Hyprland-Rice
+# hyprland-dots
